@@ -16,7 +16,7 @@ Welcome to OctoAcme's project-management process documentation. These guides hel
 - **Project Managers** coordinate delivery, schedules, risks, documentation, and communication.
 - **Product Managers** define outcomes and success metrics, prioritize the roadmap and backlog, and measure impact.
 - **Developers** design, implement, test, and review work while identifying technical risks.
-- **QA/Testing** validates quality and acceptance criteria.
+- **QA/Testing** validate quality and acceptance criteria.
 - **Stakeholders** provide input, decisions, and approvals.
 
 The process is supported by the Project One-pager, prioritized Sprint/Iteration Backlog, Acceptance Criteria and Definition of Done, Roadmap and Release Plan, Risk Register, and retrospective notes with action items. Teams maintain momentum through daily standups, weekly delivery and PM/Product Manager syncs, sprint or milestone demos, regular stakeholder updates, and retrospectives.
